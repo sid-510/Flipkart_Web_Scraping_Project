@@ -1,9 +1,9 @@
 # Flipkart_Web_Scraping_Project
 
 ## Project Description
-Scraping crucial product information which can be helpful in making decision while buying a product.
+In this project I have searched for the keyword "Airpods" on the "Flipkart" website and obtained the Title, Rating, Price and Number of Ratings and Reviews, which helps businesses and individuals to gain insights for competitive analysis, pricing strategies, and market research. 
 
-In this project I have searched for the keyword "Airpods" on the "Flipkart" website and obtained the Title, Rating, Price and Number of Ratings and Reviews of each product from the search result page, as below:
+The search result page looks something as below:
 
 <img width="566" alt="Screenshot 2023-06-17 at 2 44 45 PM" src="https://github.com/sid-510/Flipkart_Web_Scraping_Project/assets/96101913/109079b5-1cf6-49e8-a624-6360e1b43ff4">
 
